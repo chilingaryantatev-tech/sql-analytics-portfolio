@@ -1,1 +1,9 @@
-# sql-analytics-portfolio
+- Created a new repo in github.
+- Added our data files to our repo.
+- Added Schemas
+- Seed database with the etl.
+- Created .env file 
+- Created docker-compose
+- Log in local host 5050(pg admin)
+- typed a select query and run
+- the data was shown below
